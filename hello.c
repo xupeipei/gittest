@@ -10,8 +10,8 @@ int main(int argc, char **argv)
 	int a;
 	int b;
 	
-	
 	printf("hello github!\n");
 	printf("%d", fun(a + b));
+	
 	return 0;
 }
